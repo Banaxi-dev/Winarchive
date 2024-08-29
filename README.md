@@ -1,7 +1,7 @@
 
 # WinArchive
 
-WinArchive is a Python program that supports various archive formats such as ZIP, 7z, RAR, CAB, and a custom `.archive` format. It enables the creation and extraction of archives, including the ability to password-protect archives (for 7z and the custom format).
+WinArchive is a powerfull Python program that supports various archive formats such as ZIP, 7z, RAR, CAB, and a custom `.archive` format. It enables the creation and extraction of archives, including the ability to password-protect archives (for 7z and the custom format).
 
 ## Features
 
